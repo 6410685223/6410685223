@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# My Name: Peerapat Ngamgsanga
+# My nickname: kiw
+# My nickname: 5410685223
+![image](myimage.jpg)
