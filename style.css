@@ -1,0 +1,31 @@
+div.a{
+
+    text-align: center;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.align-right {
+    text-align: right;
+    margin-left: auto;
+}
+
+body {
+    background-color: #00BFFF;
+    color: black;
+}
+div.section {
+    display: inline-block; /* Make the divs inline-block to place them on the same line */
+    margin-right: 100px; /* Add some spacing between the divs */
+}
+div.righword{
+
+    text-align: center;
+}
+div.space {
+    margin-right: 100px;
+}
