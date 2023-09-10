@@ -1,31 +1,58 @@
-div.a{
 
-    text-align: center;
-}
 
-.flex-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.align-right {
-    text-align: right;
-    margin-left: auto;
-}
 
 body {
     background-color: #00BFFF;
     color: black;
 }
-div.section {
-    display: inline-block; /* Make the divs inline-block to place them on the same line */
-    margin-right: 100px; /* Add some spacing between the divs */
-}
-div.righword{
 
+.mid{
     text-align: center;
+    font-size: 30px;
 }
-div.space {
-    margin-right: 100px;
+
+.face {
+    display: block;
+    border-radius: 5%;
+    border: 5px ; 
+}
+.border {
+    border-radius: 5%;
+    border: 5px ; 
+}
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline; /* NEW */
+    font-size: 20px;
+
+  }
+.block1 {
+
+    width: 15%;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.block2 {
+    width: 30%;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.move{
+    width: 10%;
+}
+.block3{
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.about{
+    width: 45%;
+    font-size: 20px;
+}
+.blockend {
+    display: flex;
+
+    width: 90%;
+    flex-direction: row;
+    justify-content: flex-end;
 }
